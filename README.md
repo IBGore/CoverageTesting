@@ -1,4 +1,4 @@
-# WhiteBox In-Class Activity
+# White Box Coverage In-Class Activity
 
 fibonacci.py contains fibonaci and factorial funcitons <br />
 test_fibonacci_unittest.py contains unittest tests <br />
